@@ -1,0 +1,20 @@
+{
+  "name": "api-datafetch",
+  "version": "1.0.0",
+  "description": "API data fetch",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arif Hussain",
+  "license": "MIT",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "express": "^4.17.1",
+    "figlet": "^1.2.3",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.1",
+    "request": "^2.88.0"
+  }
+}
